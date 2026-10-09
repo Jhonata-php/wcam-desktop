@@ -8,6 +8,8 @@
   <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Setup.exe"><img alt="Baixar para Windows" src="https://img.shields.io/badge/Baixar_para-Windows-FF6A00?style=for-the-badge&logo=windows&logoColor=white"></a>
   &nbsp;
   <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-mac.dmg"><img alt="Baixar para Mac" src="https://img.shields.io/badge/Baixar_para-Mac-FF6A00?style=for-the-badge&logo=apple&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Android.apk"><img alt="Baixar para Android" src="https://img.shields.io/badge/Baixar_para-Android-FF6A00?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -24,7 +26,9 @@
       Alarme com notificação, sirene e a câmera que disparou abrindo grande · mosaicos em janelas, em qualquer monitor,
       usando a placa de vídeo do computador · armar e desarmar pela bandeja · abre junto com o computador e se atualiza sozinho.<br><br>
       <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Setup.exe">Windows</a> ·
-      <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-mac.dmg">Mac</a>
+      <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-mac.dmg">Mac</a> ·
+      <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Android.apk">Android</a> ·
+      <a href="#iphone">iPhone</a>
     </td>
   </tr>
   <tr>
@@ -46,6 +50,13 @@
 
 **Mac** — abra o `.dmg` e arraste o app para Aplicativos (o Instalador pode ser aberto direto do `.dmg`).
 Na primeira vez, clique com o **botão direito** no app → **Abrir** → **Abrir**.
+
+**Android** — baixe o `WCAM-Android.apk` no celular e abra. Se pedir, permita **instalar apps desta fonte**
+(o navegador ou o gerenciador de arquivos). Também roda em Android TV.
+
+<a id="iphone"></a>**iPhone** — abra o portal WCAM no **Safari**, toque em **Compartilhar** (o quadrado com a seta) →
+**Adicionar à Tela de Início**. O WCAM ganha ícone na tela e abre em tela cheia, como app. (A Apple não deixa
+instalar app por arquivo como no Android: o app nativo sai pela App Store.)
 
 Depois é só entrar com o mesmo e-mail e senha do portal WCAM.
 

@@ -29,7 +29,8 @@
   <img src="assets/icone-instalador.png" width="22" alt="" align="absmiddle">&nbsp;
   <b>Técnico?</b> Instalador de câmeras:
   <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Instalador.exe">Windows</a> ·
-  <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Instalador-mac.dmg">Mac</a>
+  <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Instalador-mac.dmg">Mac</a> ·
+  <a href="https://github.com/Jhonata-php/wcam-desktop/releases/latest/download/WCAM-Instalador-Android.apk">Android</a>
 </p>
 
 <br>
